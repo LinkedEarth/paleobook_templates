@@ -1,0 +1,37 @@
+cartopy>=0.21.1
+# - s3fs
+# - gcsfs
+fsspec
+pyyaml
+numba
+pathos
+pytest
+scipy
+tqdm
+wget
+requests
+xarray
+# - intake
+cftime
+nc-time-axis
+numpy==1.22.0
+scikit-learn
+statsmodels
+seaborn
+pangaeapy
+climlab
+# Sphinx<6.0
+# pylint
+# pytest
+# numpydoc>=1.1.0
+# nbsphinx
+# IPython
+# readthedocs-sphinx-search>=0.1.0
+# jupyter-sphinx
+# sphinx-rtd-theme>=1.0.0
+# sphinx-copybutton
+pandas>=2.0.0
+pyleoclim@git+https://github.com/LinkedEarth/Pyleoclim_util.git
+nitime
+fitter
+pylipd@git+https://github.com/LinkedEarth/pylipd.git
